@@ -11,7 +11,7 @@ You can find the anaylsis in the following notebooks:
 
 ### Prerequisites
 
-Each training was done on AWS on a p2.xlarge instance with the Deep Learning AMI using Tensorflow and python 3.6  
+Each training was done on AWS on a p2.xlarge instance with the Deep Learning AMI using Tensorflow and python 3.5.2  
 If you run the notebooks without a GPU, you might want to do only one simulation (we ran 5 simulations) as well as decrease the number of epochs. Traning time are reported in the notebooks.
 
 ## Paper insight – difference between LSTM and subLSTM equations:
